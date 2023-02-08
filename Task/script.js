@@ -35,7 +35,7 @@
     
       if (user) {
         alert("Log in successful");
-        window.location.replace('/functions.html');
+        window.location.replace('./functions.html');
       
       } else {
         alert("Invalid username or password");
